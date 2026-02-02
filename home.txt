@@ -1,1 +1,10 @@
 started on feb 3rd 2026
+I learned few commands 
+git --version
+git add <filename> 
+git add .
+git commit -m "your message"
+git push 
+git remote add origin <path url>
+git clone 
+git clone -b <branch name> <url>
