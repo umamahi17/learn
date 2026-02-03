@@ -3,6 +3,7 @@ I learned few commands
 git --version
 git add <filename> 
 git add .
+git status
 git commit -m "your message"
 git push 
 git remote add origin <path url>
